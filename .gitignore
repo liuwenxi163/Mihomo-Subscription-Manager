@@ -1,0 +1,7 @@
+mihomo-sub-manager.exe
+mihomo-sub-manager.exe~
+mihomo-sub-manager.db
+*.db-shm
+*.db-wal
+dist/
+.tools/
